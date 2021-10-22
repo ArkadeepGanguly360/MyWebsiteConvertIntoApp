@@ -16,6 +16,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.databinding.ObservableField
 import com.development.mywebsiteconvertintoapp.databinding.ActivityMainBinding
 import com.google.android.gms.ads.*
+import com.google.firebase.messaging.FirebaseMessaging
 
 class MainActivity : AppCompatActivity() {
 
